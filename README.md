@@ -79,5 +79,5 @@ El proyecto está desplegado en **Vercel**. Cada `push` a la rama principal actu
 **Anderson Ortiz** — Desarrollador de software
  
 - Portafolio: [mi-portafolio-two-beta.vercel.app](https://mi-portafolio-two-beta.vercel.app/)
-- GitHub: [github.com/<tu-usuario>](https://github.com/)
+- GitHub: [github.com/AnderOrtiz](https://github.com/AnderOrtiz)
 - LinkedIn: [linkedin.com/in/<tu-usuario>](https://www.linkedin.com/)
